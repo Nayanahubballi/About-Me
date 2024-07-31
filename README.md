@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Nayana!
 
-## Data Analyst | Data Scientist | Data Enthusiast | Problem Solver | Splunk Administrator | Splunk Developer |
+## Data Analyst | Data Scientist | Data Enthusiast | Problem Solver | Splunk Administrator | Splunk Developer 
 
 Welcome to my GitHub profile! I'm a data analyst with a passion for transforming complex data into actionable insights. My goal is to leverage data-driven approaches to solve real-world problems and support decision-making with compelling visualizations and analyses.
 
